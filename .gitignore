@@ -1,0 +1,6 @@
+.gitattributes
+.idea
+.git
+.env
+node_modules
+static
